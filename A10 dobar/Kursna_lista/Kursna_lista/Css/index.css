@@ -1,0 +1,15 @@
+﻿body {
+    background-color: beige;
+    font: 12px verdana;
+}
+
+.dugme {
+    border-radius: 20px;
+}
+
+.meni {
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+}
+
+
