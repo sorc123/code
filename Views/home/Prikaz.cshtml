@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Prikaz";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Prikaz</h2>
+@using (Html.BeginForm("Prikaz", "home")) 
+{
+    <p>Izaberite vozilo:</p> <input name="reg_broj" type="text" />
+    <br/>
+    <input id="Submit1" type="submit" value="Prikazi" />
+}
+    <table style="width: 100%; text-align:center; border: 2px solid black">
+        <tr>
+            <th>Registarski broj</th>
+            <th>Marka</th>
+            <th>Godina proizvodnje</th>
+            <th>Ukupno predjeno kilometara</th>
+        </tr>
+        @if(@ViewBag.da_ne == "da")
+        {
+        <tr>
+            <td>@ViewBag.Reg</td>
+            <td>@ViewBag.Marka</td>
+            <td>@ViewBag.Godina</td>
+            <td>@ViewBag.Kilometri</td>
+        </tr>
+        }
+        @if (@ViewBag.da_ne == "ne") 
+        {
+            foreach (Vozni_Park.Models.Ukupno u in Model) 
+             {
+                 <tr>
+                   <td>@u.Registarski_broj</td>
+                   <td>@u.Marka</td>
+                   <td>@u.Godina</td>
+                   <td>@u.Ukupno_kilometara</td>
+                </tr>
+             }
+        }
+    </table>
+<br/>
+@Html.ActionLink("Evidentiranje", "Evidentiranje", "home")

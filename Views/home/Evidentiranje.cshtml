@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Evidentiranje";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Evidentiranje</h2>
+@using (Html.BeginForm("Evidentiranje", "home")){
+<select id ="Vozila" name="reg_broj">
+    @foreach (Vozni_Park.Models.Podaci_o_vozilima vozilo in Model) 
+    {
+        <option value="@vozilo.RegistarskiBroj">@vozilo.RegistarskiBroj</option>
+    }
+</select>
+<p> Datum: </p> <input name="datum" type="text" />
+<p> Startna pozicija: </p> <input name="od_mesta" type="text" />
+<p> Krajnja pozicija: </p> <input name="do_mesta" type="text" />
+<p> Predjeno kilometara: </p> <input name="kilometri" type="text" />
+<br />
+<input id="Submit1" type="submit" value="Snimi" />
+}
+@Html.ActionLink("Prikaz", "Prikaz", "home")
+

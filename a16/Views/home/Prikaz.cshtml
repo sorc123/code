@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Prikaz";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Prikaz</h2>
+<table style="width: 100%;">
+    <tr>
+        <th>Redni broj</th>
+        <th>Ponedeljak</th>
+        <th>Utorak</th>
+        <th>Sreda</th>
+        <th>Cetvrtak</th>
+        <th>Petak</th>
+    </tr>
+    @foreach(Raspored_casova.Models.Raspored r in Model)
+    {
+      <tr>
+          <td>@r.Redni_broj</td>
+          <td>@r.Ponedeljak</td>
+          <td>@r.Utorak</td>
+          <td>@r.Sreda</td>
+          <td>@r.Cetvrtak</td>
+          <td>@r.Petak</td>
+     </tr>
+    }
+</table>
+
+@Html.ActionLink("Ucitavanje nove datoteke", "Ucitavanje", "home")

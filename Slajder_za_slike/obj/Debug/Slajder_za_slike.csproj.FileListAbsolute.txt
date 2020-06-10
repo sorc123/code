@@ -1,0 +1,7 @@
+D:\Skola\A\A20\Slajder_za_slike\Slajder_za_slike\bin\Slajder_za_slike.dll.config
+D:\Skola\A\A20\Slajder_za_slike\Slajder_za_slike\bin\Slajder_za_slike.dll
+D:\Skola\A\A20\Slajder_za_slike\Slajder_za_slike\bin\Slajder_za_slike.pdb
+D:\Skola\A\A20\Slajder_za_slike\Slajder_za_slike\obj\Debug\Slajder_za_slike.csprojAssemblyReference.cache
+D:\Skola\A\A20\Slajder_za_slike\Slajder_za_slike\obj\Debug\Slajder_za_slike.csproj.CoreCompileInputs.cache
+D:\Skola\A\A20\Slajder_za_slike\Slajder_za_slike\obj\Debug\Slajder_za_slike.dll
+D:\Skola\A\A20\Slajder_za_slike\Slajder_za_slike\obj\Debug\Slajder_za_slike.pdb
