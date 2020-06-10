@@ -1,0 +1,4 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A9\Konvertor_teksta\Konvertor_teksta\bin\Konvertor_teksta.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A9\Konvertor_teksta\Konvertor_teksta\bin\Konvertor_teksta.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A9\Konvertor_teksta\Konvertor_teksta\obj\Debug\Konvertor_teksta.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A9\Konvertor_teksta\Konvertor_teksta\obj\Debug\Konvertor_teksta.pdb

@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A10\Kursna_lista\Kursna_lista\bin\Kursna_lista.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A10\Kursna_lista\Kursna_lista\bin\Kursna_lista.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A10\Kursna_lista\Kursna_lista\obj\Debug\Kursna_lista.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A10\Kursna_lista\Kursna_lista\obj\Debug\Kursna_lista.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A10\Kursna_lista\Kursna_lista\obj\Debug\Kursna_lista.pdb

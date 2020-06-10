@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A9\Servis\Servis\bin\Servis.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A9\Servis\Servis\bin\Servis.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A9\Servis\Servis\obj\Debug\Servis.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A9\Servis\Servis\obj\Debug\Servis.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A9\Servis\Servis\obj\Debug\Servis.pdb

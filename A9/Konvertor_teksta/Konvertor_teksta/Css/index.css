@@ -1,0 +1,13 @@
+﻿body {
+    background-color: beige;
+    font: 13px verdana;
+}
+
+.dugme {
+    font: italic;
+    border-radius: 10px 20px;
+    background-color: white;
+    color: black;
+}
+
+
