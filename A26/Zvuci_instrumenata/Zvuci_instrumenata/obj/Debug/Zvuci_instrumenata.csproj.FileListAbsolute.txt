@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A26\Zvuci_instrumenata\Zvuci_instrumenata\bin\Zvuci_instrumenata.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A26\Zvuci_instrumenata\Zvuci_instrumenata\bin\Zvuci_instrumenata.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A26\Zvuci_instrumenata\Zvuci_instrumenata\obj\Debug\Zvuci_instrumenata.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A26\Zvuci_instrumenata\Zvuci_instrumenata\obj\Debug\Zvuci_instrumenata.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A26\Zvuci_instrumenata\Zvuci_instrumenata\obj\Debug\Zvuci_instrumenata.pdb

@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A22\Efekti_tabele\Efekti_tabele\bin\Efekti_tabele.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A22\Efekti_tabele\Efekti_tabele\bin\Efekti_tabele.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A22\Efekti_tabele\Efekti_tabele\obj\Debug\Efekti_tabele.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A22\Efekti_tabele\Efekti_tabele\obj\Debug\Efekti_tabele.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A22\Efekti_tabele\Efekti_tabele\obj\Debug\Efekti_tabele.pdb

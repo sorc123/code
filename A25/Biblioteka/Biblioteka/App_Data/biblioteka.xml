@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<biblioteka>
+  <knjiga ISBN="10-000000-001" naslov="Baze podataka" stanje="12" citano="23"></knjiga>
+  <knjiga ISBN="10-000000-002" naslov="Programiranje C#" stanje="24" citano="19"></knjiga>
+  <knjiga ISBN="11-000000-003" naslov="Web programiranje" stanje="5" citano="21"></knjiga>
+</biblioteka>
