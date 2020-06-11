@@ -1,0 +1,4 @@
+﻿SIF01 Procesor1                Proizvodjac1        512MBTipProcesora1  Kamera1 Ekran1    \Slike\slika1.png           1000    
+SIF02 Procesor2                Proizvodjac2        1GB  TipProcesora2  Kamera2 Ekran2    \Slike\slika2.png           2000
+SIF03 Procesor3                Proizvodjac3        512MBTipProcesora3  Kamera3 Ekran3    \Slike\slika3.png           3000
+SIF04 Procesor1                Proizvodjac2        2GB  TipProcesora3  Kamera1 Ekran1    \Slike\slika4.png           4000

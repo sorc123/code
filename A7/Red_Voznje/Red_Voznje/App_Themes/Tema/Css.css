@@ -1,0 +1,20 @@
+﻿body {
+    background-color: beige;
+    font: 12px verdana;
+}
+
+tr, td, th{
+    border: 2px dashed #507CD1;
+    color: #507CD1;
+}
+
+table {
+    border: 3px solid #507CD1;
+    text-align: center;
+    background-color: #B5C7DE;
+}
+
+#Menu1 {
+    font: 15px verdana;
+    text-align:center;
+}

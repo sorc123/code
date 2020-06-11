@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A6\Telefonski_imenik\Telefonski_imenik\bin\Telefonski_imenik.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A6\Telefonski_imenik\Telefonski_imenik\bin\Telefonski_imenik.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A6\Telefonski_imenik\Telefonski_imenik\obj\Debug\Telefonski_imenik.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A6\Telefonski_imenik\Telefonski_imenik\obj\Debug\Telefonski_imenik.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A6\Telefonski_imenik\Telefonski_imenik\obj\Debug\Telefonski_imenik.pdb

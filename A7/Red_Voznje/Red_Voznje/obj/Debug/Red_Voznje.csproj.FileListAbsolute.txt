@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A7\Red_Voznje\Red_Voznje\bin\Red_Voznje.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A7\Red_Voznje\Red_Voznje\bin\Red_Voznje.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A7\Red_Voznje\Red_Voznje\obj\Debug\Red_Voznje.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A7\Red_Voznje\Red_Voznje\obj\Debug\Red_Voznje.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A7\Red_Voznje\Red_Voznje\obj\Debug\Red_Voznje.pdb

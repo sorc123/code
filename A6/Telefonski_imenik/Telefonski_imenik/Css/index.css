@@ -1,0 +1,11 @@
+﻿body {
+    background-color: beige;
+}
+
+table {
+    text-align: center; 
+}
+
+tr, td {
+    padding: 5px 20px 5px 20px;
+}
