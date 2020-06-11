@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A12\Knjiga_utisaka\Knjiga_utisaka\bin\Knjiga_utisaka.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A12\Knjiga_utisaka\Knjiga_utisaka\bin\Knjiga_utisaka.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A12\Knjiga_utisaka\Knjiga_utisaka\obj\Debug\Knjiga_utisaka.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A12\Knjiga_utisaka\Knjiga_utisaka\obj\Debug\Knjiga_utisaka.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A12\Knjiga_utisaka\Knjiga_utisaka\obj\Debug\Knjiga_utisaka.pdb

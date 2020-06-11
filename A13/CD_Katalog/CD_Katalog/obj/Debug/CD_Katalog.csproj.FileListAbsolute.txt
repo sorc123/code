@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A13\CD_Katalog\CD_Katalog\bin\CD_Katalog.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A13\CD_Katalog\CD_Katalog\bin\CD_Katalog.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A13\CD_Katalog\CD_Katalog\obj\Debug\CD_Katalog.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A13\CD_Katalog\CD_Katalog\obj\Debug\CD_Katalog.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A13\CD_Katalog\CD_Katalog\obj\Debug\CD_Katalog.csprojResolveAssemblyReference.cache
