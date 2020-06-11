@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A1\Domace_zivotinje\Domace_zivotinje\bin\Domace_zivotinje.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A1\Domace_zivotinje\Domace_zivotinje\bin\Domace_zivotinje.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A1\Domace_zivotinje\Domace_zivotinje\obj\Debug\Domace_zivotinje.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A1\Domace_zivotinje\Domace_zivotinje\obj\Debug\Domace_zivotinje.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A1\Domace_zivotinje\Domace_zivotinje\obj\Debug\Domace_zivotinje.pdb

@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A2\Foto_galerija\Foto_galerija\bin\Foto_galerija.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A2\Foto_galerija\Foto_galerija\bin\Foto_galerija.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A2\Foto_galerija\Foto_galerija\obj\Debug\Foto_galerija.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A2\Foto_galerija\Foto_galerija\obj\Debug\Foto_galerija.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A2\Foto_galerija\Foto_galerija\obj\Debug\Foto_galerija.pdb

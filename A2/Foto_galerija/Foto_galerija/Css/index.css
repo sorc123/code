@@ -1,0 +1,40 @@
+﻿body {
+}
+table, tr, td {
+    border: 2px groove black;
+    text-align: center;
+}
+
+tr, td {
+    padding: 5px 20px 5px 20px;
+}
+
+#kontejner {
+    position: absolute;
+    width: 640px;
+    height: 480px;
+}
+
+#glavna {
+    position: absolute;
+    width: 320px;
+    height: 200px;
+    left: 160px;
+    top: 140px;
+}
+
+.slike {
+    position: relative;
+    width: 64px;
+    height: 40px;
+    top: 340px;
+    margin-left: 3px;
+}
+
+#naziv {
+    position: absolute;
+    top: 70px;
+    left: 300px;
+    font: bold 15px verdana;
+}
+
