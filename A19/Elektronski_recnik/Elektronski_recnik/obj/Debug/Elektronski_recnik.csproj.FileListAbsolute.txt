@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A19\Elektronski_recnik\Elektronski_recnik\bin\Elektronski_recnik.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A19\Elektronski_recnik\Elektronski_recnik\bin\Elektronski_recnik.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A19\Elektronski_recnik\Elektronski_recnik\obj\Debug\Elektronski_recnik.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A19\Elektronski_recnik\Elektronski_recnik\obj\Debug\Elektronski_recnik.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A19\Elektronski_recnik\Elektronski_recnik\obj\Debug\Elektronski_recnik.pdb
