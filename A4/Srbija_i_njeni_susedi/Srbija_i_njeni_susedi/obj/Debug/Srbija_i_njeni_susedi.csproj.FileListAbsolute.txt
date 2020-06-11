@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\VebProgramiranje\A4\Srbija_i_njeni_susedi\Srbija_i_njeni_susedi\bin\Srbija_i_njeni_susedi.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A4\Srbija_i_njeni_susedi\Srbija_i_njeni_susedi\bin\Srbija_i_njeni_susedi.pdb
+C:\Users\Asus\Desktop\VebProgramiranje\A4\Srbija_i_njeni_susedi\Srbija_i_njeni_susedi\obj\Debug\Srbija_i_njeni_susedi.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VebProgramiranje\A4\Srbija_i_njeni_susedi\Srbija_i_njeni_susedi\obj\Debug\Srbija_i_njeni_susedi.dll
+C:\Users\Asus\Desktop\VebProgramiranje\A4\Srbija_i_njeni_susedi\Srbija_i_njeni_susedi\obj\Debug\Srbija_i_njeni_susedi.pdb

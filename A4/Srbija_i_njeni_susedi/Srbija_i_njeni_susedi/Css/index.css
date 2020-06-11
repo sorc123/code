@@ -1,0 +1,89 @@
+﻿table {
+    background-color: beige;
+    border: 2px solid black;
+    border-radius: 10px 10px;
+    text-align: center;
+}
+
+tr, td {
+    border: 2px solid black;
+    padding: 5px 20px 5px 20px;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    color: black;
+}
+
+#pozadina {
+    z-index: -1;
+
+    width: 100%;
+    height: 100%;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.slike {
+    width: 160px;
+    height: 120px;
+}
+
+div {
+    display:block;
+    position:fixed;
+
+    text-align: center;
+    font: bold 15px verdana;
+}
+
+#srbija {
+    top: 40%;
+    left: 50%;
+}
+
+#crnagora {
+    top: 5%;
+    left: 20%;
+}
+
+#bih {
+    top: 0px;
+    left: 45%;
+}
+
+#albanija {
+    top: 25%;
+    left: 5%;
+}
+
+#makedonija {
+    top: 60%;
+    left: 0;
+}
+
+#bugarska {
+    top: 83%;
+    left: 22%;
+}
+
+#rumunija {
+    top: 70%;
+    left: 80%;
+}
+
+#madjarska {
+    top: 10%;
+    left: 92%;
+}
+
+#hrvatska {
+    top: 0;
+    left: 75%;
+}
