@@ -1,0 +1,19 @@
+﻿body {
+    background-color: beige;
+    font: 13px verdana;
+}
+
+table, tr, td, th {
+    border: 2px solid black;
+    padding: 5px 20px 5px 20px;
+    text-align: center;
+}
+
+.dugme {
+    border-radius: 20px;
+}
+
+.meni {
+    padding: 5px 20px 5px 20px;
+    font-size: 15px;
+}
